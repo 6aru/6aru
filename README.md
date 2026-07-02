@@ -8,7 +8,7 @@ I'm passionate about building lightweight Linux setups focused on simplicity, pe
 
 🐧 Linux (Debian)
 
-🪟 i3wm • XFCE
+🪟 i3wm
 
 💻 Neovim
 
