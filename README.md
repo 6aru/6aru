@@ -21,6 +21,7 @@ I enjoy learning about Linux because it gives me the freedom to understand, cust
 
 📦 Git
 🎵 MPD
+
 ---
 
 ## Current Focus
