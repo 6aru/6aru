@@ -4,17 +4,10 @@ I'm passionate about building lightweight Linux setups focused on simplicity, pe
 
 Linux enthusiast crafting clean, minimal desktop experiences.
 
-<p align="center">
-
 ![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian)
-
 ![i3](https://img.shields.io/badge/i3wm-Tiling%20WM-5294E2?style=flat-square)
-
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim)
-
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=gnu-bash)
-
-</p>
 ---
 
 ## Tech I Enjoy
