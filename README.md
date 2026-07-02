@@ -1,6 +1,6 @@
 > Linux enthusiast crafting clean, minimal and functional desktop experiences.
 
-I'm passionate about building lightweight Linux setups focused on simplicity, performance, and aesthetics. Most of my projects revolve around Debian, i3wm, shell scripting, terminal workflows, and open-source tools.
+I enjoy learning about Linux because it gives me the freedom to understand, customize, and build my own workflow. My projects mainly focus on Debian, i3wm, shell scripting, terminal workflows, and open-source tools. I'm a self-taught learner who enjoys experimenting, improving, and taking inspiration from the open-source community.
 
 ![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian)
 ![i3](https://img.shields.io/badge/i3wm-Tiling%20WM-5294E2?style=flat-square)
@@ -11,21 +11,13 @@ I'm passionate about building lightweight Linux setups focused on simplicity, pe
 ## Tech I Enjoy
 
 🐧 Linux (Debian)
-
 🪟 i3wm
-
 💻 Neovim
-
 🐚 Zsh
-
 🎨 GTK & Ricing
-
 ⚡ Shell Scripting
-
 📦 Git
-
 🎵 MPD
-
 ---
 
 ## Current Focus
@@ -93,7 +85,8 @@ Terminal  Ghostty
 Shell     Zsh
 Editor    Neovim
 Browser   Brave
-Theme     Gruvbox / Kanagawa
+Theme     Gruvbox
+GTK       Colloid
 ```
 
 ---
