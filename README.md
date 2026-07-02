@@ -2,8 +2,6 @@
 
 I'm passionate about building lightweight Linux setups focused on simplicity, performance, and aesthetics. Most of my projects revolve around Debian, i3wm, shell scripting, terminal workflows, and open-source tools.
 
-Linux enthusiast crafting clean, minimal desktop experiences.
-
 ![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian)
 ![i3](https://img.shields.io/badge/i3wm-Tiling%20WM-5294E2?style=flat-square)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim)
