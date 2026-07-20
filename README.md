@@ -1,104 +1,57 @@
-> Linux enthusiast crafting clean, minimal and functional desktop experiences.
+# Hi, I'm 6aru. 
+> Linux enthusiast crafting clean, minimal, and functional desktop experiences.
 
-I enjoy learning about Linux because it gives me the freedom to understand, customize, and build my own workflow. My projects mainly focus on Debian, i3wm, shell scripting, terminal workflows, and open-source tools. I'm a self-taught learner who enjoys experimenting, improving, taking inspiration, and constantly learning from the open-source community and people who share their work online.
+I use Linux because of the freedom it gives me to understand, customize, and build my own ideal workflow. My projects primarily focus on **Debian**, **i3wm**, **shell scripting**, and **terminal-centric tools**. As a self-taught learner, I constantly draw inspiration from the open-source community, experimenting and sharing my own work along the way.
 
-![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian)
-![i3](https://img.shields.io/badge/i3wm-Tiling%20WM-5294E2?style=flat-square)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=gnu-bash)
----
-
-## Tech I Enjoy
-
-🐧 Linux (Debian)
-🪟 i3wm
-
-💻 Neovim
-🐚 Zsh
-
-🎨 GTK & Ricing
-⚡ Shell Scripting
-
-📦 Git
-🎵 MPD
+<div align="left">
+  <img src="https://img.shields.io/badge/Debian-13-282828?style=flat-square&logo=debian" alt="Debian" />
+  <img src="https://img.shields.io/badge/WM-i3wm-282828?style=flat-square" alt="i3wm" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-282828?style=flat-square&logo=neovim" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Shell-Zsh-282828?style=flat-square&logo=gnu-bash" alt="Zsh" />
+</div>
 
 ---
 
-## Current Focus
-
-- Building a polished i3wm rice
-- Creating reusable Linux dotfiles
-- Improving terminal workflows
-- Learning more about Linux internals
-- Writing clean shell scripts
+## ⚙️ What I'm Focused On
+* Building polished, highly functional **i3wm** environments.
+* Creating reusable and well-documented Linux **dotfiles**.
+* Optimizing **terminal workflows** and writing clean shell scripts.
+* Deepening my understanding of Linux internals.
 
 ---
 
-## Featured Projects
+## 🛠️ The Daily Driver
 
-### Zsh Configuration
+| Category | Tool | | Category | Tool |
+| :--- | :--- | :--- | :--- | :--- |
+| **OS** | Debian 13 | | **Terminal** | Ghostty |
+| **WM** | i3wm | | **Shell** | Zsh |
+| **Editor** | Neovim | | **Browser** | Brave |
+| **Theme** | Gruvbox | | **GTK** | Colloid |
 
-A clean and productive Zsh configuration powered by:
-
-- Powerlevel10k
-- FZF
-- Zoxide
-- Eza
-- Chafa previews
-- Bat integration
-- Git helpers
-- Linux-friendly aliases
+> *Other technologies I frequently use and enjoy: **eww**, **Git**, **MPD**, and custom **GTK ricing**.*
 
 ---
 
-### i3 Rice
+## 📦 Featured Projects
+### 🌑 i3 + Eww // E-Ink Dark
+A lightweight and modern i3wm desktop experience built specifically for **Debian 13**. It features a cohesive E-Ink inspired dark theme, custom **Eww widgets** (including a dashboard, control center, and weather), integrated **Rofi** applets, and autotiling for a completely distraction-free workflow. 
 
-Minimal i3wm setup featuring:
+### 🪟 i3 Rice
+A minimal, distraction-free i3wm setup featuring **Polybar**, **Rofi**, **Dunst**, and **Picom**. Includes multiple color themes, a built-in theme switcher, custom utility scripts, and scratchpads for a seamless workflow.
 
-- Polybar
-- Rofi
-- Dunst
-- Picom
-- Multiple color themes
-- Theme switcher
-- Scratchpads
-- Custom scripts
+### 🐚 Zsh Configuration
+A clean and productive shell environment powered by **Powerlevel10k**, **FZF**, **Zoxide**, and **Eza**. Integrated with Chafa for terminal image previews, Bat for syntax highlighting, and loaded with custom Git helpers and Linux-friendly aliases.
 
 ---
 
-## Philosophy
+## 💡 Philosophy
+> *Minimal doesn't mean empty.*
 
-> Minimal doesn't mean empty.
-
-I prefer software that is:
-
-- Fast
-- Lightweight
-- Keyboard-driven
-- Unix-friendly
-- Open source
+I strongly prefer software that is **fast, lightweight, keyboard-driven, Unix-friendly,** and **open source.**
 
 ---
 
-## Currently Using
-
-```text
-OS        Debian 13
-WM        i3wm
-Terminal  Ghostty
-Shell     Zsh
-Editor    Neovim
-Browser   Brave
-Theme     Gruvbox
-GTK       Colloid
-```
-
----
-
-## Find me
-
-- GitHub: https://github.com/6aru
-
----
-
-If you find any of my projects useful, consider leaving a ⭐.
+<div align="center">
+  <b><a href="https://github.com/6aru">GitHub</a></b> • If you find my dotfiles or projects useful, consider leaving a ⭐!
+</div>
