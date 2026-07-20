@@ -24,9 +24,9 @@ I use Linux because of the freedom it gives me to understand, customize, and bui
 
 | Category | Tool | | Category | Tool |
 | :--- | :--- | :--- | :--- | :--- |
-| **OS** | Debian 13 | | **Terminal** | Ghostty |
+| **OS** | Debian 13 | | **Terminal** | Kitty |
 | **WM** | i3wm | | **Shell** | Zsh |
-| **Editor** | Neovim | | **Browser** | Brave |
+| **Editor** | Neovim | | **Browser** | Brave & Firefox-esr |
 | **Theme** | Gruvbox | | **GTK** | Colloid |
 
 > *Other technologies I frequently use and enjoy: **eww**, **Git**, **MPD**, and custom **GTK ricing**.*
