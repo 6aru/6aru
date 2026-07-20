@@ -1,4 +1,4 @@
-# Hi, I'm 6aru. 
+# Hi, I'm Baru. 
 > Linux enthusiast crafting clean, minimal, and functional desktop experiences.
 
 I use Linux because of the freedom it gives me to understand, customize, and build my own ideal workflow. My projects primarily focus on **Debian**, **i3wm**, **shell scripting**, and **terminal-centric tools**. As a self-taught learner, I constantly draw inspiration from the open-source community, experimenting and sharing my own work along the way.
