@@ -19,18 +19,19 @@ I use Linux because of the freedom it gives me to understand, customize, and bui
 * Deepening my understanding of Linux internals.
 
 ---
+## ⚙️ My Setup
 
-## 🛠️ The Daily Driver
+| Component | Choice |
+|:--------- |:------ |
+| 🐧 **OS** | Debian 13 |
+| 🪟 **WM** | i3wm |
+| 🖥️ **Terminal** | Kitty • Ghostty |
+| 🐚 **Shell** | Zsh |
+| 📝 **Editor** | Neovim |
+| 🌐 **Browser** | Brave • Firefox ESR |
+| 🎨 **Theme** | Colloid Dark + E-Ink Dark + Gruvbox |
 
-| Category | Tool | | Category | Tool |
-| :--- | :--- | :--- | :--- | :--- |
-| **OS** | Debian 13 | | **Terminal** | Kitty |
-| **WM** | i3wm | | **Shell** | Zsh |
-| **Editor** | Neovim | | **Browser** | Brave & Firefox-esr |
-| **Theme** | Gruvbox | | **GTK** | Colloid |
-
-> *Other technologies I frequently use and enjoy: **eww**, **Git**, **MPD**, and custom **GTK ricing**.*
-
+> **Tools I use daily:** Eww • Rofi • Picom • Dunst • MPD • Git
 ---
 
 ## 📦 Featured Projects
